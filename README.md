@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mujahid
-- 👀 I’m interested in creating simple solutions for complex programming problems.
 - 📫 How to reach me - syedmujahidahmed0@gmail.com
 
 <!---

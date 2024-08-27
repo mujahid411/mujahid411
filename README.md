@@ -56,9 +56,6 @@
  
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mujahid411&color=green)
-
- <h2 align="left">Profile View's</h2> <img src="https://profile-counter.glitch.me/mujahid411/count.svg" />
 
 
 

@@ -56,6 +56,9 @@
  
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=mujahid411&color=green)
+
+
 ###
 
 <p align="left"></p>

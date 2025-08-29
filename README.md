@@ -6,7 +6,11 @@
 
 ###
 
-<h4 align="left">- Experienced in developing full-stack applications.<br>- Proficient in integrating microservices such as Stripe, Cloudinary, and Nodemailer.<br>- Passionate about building innovative solutions.<br>- Dedicated to continuous learning and staying up-to-date with industry trends.<br>- Reach me at: syedmujahidahmed0@gmail.com</h4>
+- Experienced in developing full-stack applications.
+- Proficient in integrating services such as Stripe, Cloudinary, and Nodemailer.
+- Passionate about building innovative solutions in the field of AI/ML.
+- Dedicated to continuous learning and staying up-to-date with industry trends.
+- Reach me at: syedmujahidahmed0@gmail.com
 
 ###
 
